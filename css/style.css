@@ -1,0 +1,307 @@
+
+
+.nav-item
+{
+	font-size: 20px;
+	font-weight: 20px;
+}
+
+.nav-item:hover
+{
+	color: darkblue;
+	text-decoration: underline;
+}
+
+/*.container-fluid
+{
+	background-color: lightskyblue;
+}*/
+/**/
+.col-8 
+{
+/*	border: 1px solid black;*/
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+}
+
+.col-3
+{
+/*	border: 1px solid black;*/
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	text-align: center;
+}
+
+/*.container
+{
+	background-color: wheat;
+}*/
+/**/
+.img_size
+{
+	margin-top: 100px;
+	margin-left: 250px;
+}
+
+.heading
+{
+	margin-top: 70px;
+	margin-left: 8px;
+	margin-bottom: 30px;
+}
+
+.intro_para
+{
+	font-style: oblique;
+	font-weight: bolder;
+	font-size: 17px;
+}
+
+.col-12
+{
+	margin-top: 111px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 23px;
+	font-style: oblique;
+}
+/*Abou_us below*/
+.first_tech
+{
+
+}
+
+.html_head
+{
+	font-weight: bold;
+/*	margin-top: 5px;*/
+}
+
+.html_para
+{
+	font-size: 17px;
+	font-weight: bold;
+	font-style: oblique;
+	margin-bottom: 40px;
+}
+
+.css_head
+{
+font-weight: bold;
+}
+
+.css_para
+{
+	font-size: 17px;
+	font-weight: bold;
+	font-style: oblique;
+	margin-bottom: 28px;
+}
+
+.js_head
+{
+	font-weight: bold;
+/*	margin-top: 5px;*/
+}
+
+.js_para
+{
+	font-size: 17px;
+	font-weight: bold;
+	font-style: oblique;
+	margin-bottom: -10px;
+}
+
+.bootstrap_head
+{
+font-weight: bold;
+}
+
+.bootstrap_para
+{
+	font-size: 17px;
+	font-weight: bold;
+	font-style: oblique;
+}
+
+.wd_head
+{
+font-weight: bold;
+}
+
+.wd_para
+{
+	font-size: 17px;
+	font-weight: bold;
+	font-style: oblique;
+}
+
+.col-12 .footer_part
+{
+	font-weight: bold;
+	font-size: 22px;
+	font-style: oblique;
+}
+
+.footer_part
+{
+	border-radius: 20px;
+}
+
+/* Education-page (below) */
+.education_img
+{
+/*	background-color: wheat;*/
+	text-align: center;
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	justify-self: center;
+}
+
+.education_info
+{
+/*	background-color: lightpink;*/
+	text-align: center;
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	justify-self: center;
+}
+
+.footer_part
+{
+	font-weight: bold;
+/*	font-size: 20px;*/
+	font-style: oblique;
+}
+
+.BCA_Head
+{
+	padding-top: 30px;
+}
+
+.MCA_Head
+{
+	padding-top: 90px;
+}
+
+
+/*skill-page*/
+
+.skill_img
+{
+text-align: center;
+justify-content: center;
+	justify-items: center;
+	align-items: center;
+	justify-self: center;
+/*	background-color: lightskyblue;*/
+}
+
+.skill_info
+{
+	text-align: center;
+justify-content: center;
+	justify-items: center;
+	align-items: center;
+	justify-self: center;
+/*	background-color: lightpink;*/
+}
+
+.webdev_head
+{
+	margin-top: 55px;
+	font-weight: bold;
+}
+
+.webdev_para
+{
+	font-style: oblique;
+	font-weight: normal;
+	font-size: 19px;
+}
+
+.mysql_head
+{
+	margin-top: 150px;
+font-weight: bold;
+}
+
+.mysql_para
+{
+font-style: oblique;
+	font-weight: normal;
+	font-size: 19px;
+}
+
+.git_head
+{
+	margin-top: 170px;
+font-weight: bold;
+}
+
+.git_para
+{
+font-style: oblique;
+	font-weight: normal;
+	font-size: 19px;
+}
+
+.github_head
+{
+	margin-top: 100px;
+font-weight: bold;
+}
+
+.github_para
+{
+font-style: oblique;
+	font-weight: normal;
+	font-size: 19px;
+}
+
+.skiil_footer
+{
+	font-weight: bold;
+	font-style: oblique;
+	font-size: 21px;
+}
+
+/*contact-us page*/
+.contact_head
+{
+margin-top: -67px;
+margin-bottom: 35px;
+/*font-weight: bold;*/
+font-style: oblique;
+font-size: 30px;
+}
+
+.contact_info
+{
+	border: 1px solid grey;
+	width: 500px;
+	justify-items: center;
+	justify-content: center;
+	justify-self: center;
+	text-align: center;
+	margin-bottom: -9px;
+}
+
+.contact_info
+{
+/*background-color: lightskyblue;*/
+}
+
+.contact_btn
+{
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 22px;
+	border-radius: 20px;
+}
